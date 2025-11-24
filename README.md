@@ -6,6 +6,7 @@
   **Context-Aware Translation Chrome Extension**
   
   [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://github.com/Solo7775/context-based-translator)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![OpenRouter](https://img.shields.io/badge/Powered%20by-OpenRouter-purple)](https://openrouter.ai)
   
   *Translate any text on any webpage with AI-powered context awareness and multi-language support.*
