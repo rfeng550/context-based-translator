@@ -6,7 +6,6 @@
   **Context-Aware Translation Chrome Extension**
   
   [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://github.com/Solo7775/context-based-translator)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![OpenRouter](https://img.shields.io/badge/Powered%20by-OpenRouter-purple)](https://openrouter.ai)
   
   *Translate any text on any webpage with AI-powered context awareness and multi-language support.*
@@ -204,12 +203,6 @@ While there are no default shortcuts, you can set them up:
 - [ ] Browser action popup translation
 - [ ] Multiple target languages at once
 - [ ] Custom prompts/instructions
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
