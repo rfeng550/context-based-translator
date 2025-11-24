@@ -195,17 +195,6 @@ While there are no default shortcuts, you can set them up:
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Customize keyboard shortcuts
-- [ ] Translation history
-- [ ] Offline mode with cached translations
-- [ ] Browser action popup translation
-- [ ] Multiple target languages at once
-- [ ] Custom prompts/instructions
-
----
-
 ## 🙏 Acknowledgments
 
 - Powered by [OpenRouter](https://openrouter.ai)
