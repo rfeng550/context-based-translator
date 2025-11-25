@@ -96,10 +96,10 @@ Your API key is **stored locally** in your browser. No data is sent to third par
    - Click the dropdown menu under "Model"
    - Browse through 100+ available models
    - Popular choices:
-     - `openai/gpt-3.5-turbo` (Fast & Affordable)
+     - `openai/gpt-4o-mini` (Fast & Affordable)
      - `openai/gpt-4o` (High Quality)
      - `anthropic/claude-3-opus` (Best Overall)
-     - `google/gemini-pro` (Google's Latest)
+     - `xAI/grok-4.1-fast(free)`(the best free AI I used so far)
    - Click the refresh button (↻) to update the model list
 
 3. **Enter Your API Key**
